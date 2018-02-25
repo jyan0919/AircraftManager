@@ -4,14 +4,15 @@ A software subsystem of an air-traffic control system is defined to manage a que
 
 ### Installing
 
-1. Import this proj as DynamicWeb Proj to Eclipse - set up Tomcat as Run time target
+1. Import this proj as DynamicWeb Proj to Eclipse 
+    1. set up Tomcat as Run time target
 2. Convert the proj to Maven Project in Eclipse
 
 ## Deployment
 
 1. Right click proj in Eclipse 
 2. Run As.. -> Maven Build
-  1. Goal as: spring-boot:run
+  1. Goal as: `spring-boot:run`
             
 ## Test
 
